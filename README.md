@@ -3,7 +3,7 @@
 
 This repository contains SQL queries used for analyzing and managing data in an **Online Bookstore** database. The queries cover various business insights, inventory management, customer behavior, and sales performance.
 
----
+Visualization: https://public.tableau.com/app/profile/abraham.prosia4945/vizzes
 
 ## 📌 **Project Overview**
 The dataset consists of multiple tables, including:
